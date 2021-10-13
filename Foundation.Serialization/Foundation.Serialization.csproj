@@ -122,6 +122,14 @@
     <Content Include="App_Config\Include\Unicorn\Unicorn.Users.DataProvider.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.Users.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.Users.config.example" />
+    <Content Include="App_Config\Include\zzz\Demo.Unicorn.Base.config" />
+    <Content Include="App_Config\Include\zzz\Demo.Unicorn.Core.config" />
+    <Content Include="App_Config\Include\zzz\Demo.Unicorn.Master.config" />
+    <Content Include="App_Config\Include\zzz\Demo.Unicorn.MasterContent.config" />
+    <Content Include="App_Config\Include\helix\Demo.Unicorn.Base.config" />
+    <Content Include="App_Config\Include\helix\Demo.Unicorn.Project.config" />
+    <Content Include="App_Config\Include\helix\Demo.Unicorn.Feature.config" />
+    <Content Include="App_Config\Include\helix\Demo.Unicorn.Foundation.config" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
