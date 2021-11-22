@@ -1,4 +1,6 @@
-# Foundation.Serialization
+# Setting Up Unicorn for Sitecore Projects: a Practical Guide
+https://www.sam-solutions.com/blog/set-up-sitecore-unicorn/
+
 Unicorn is a utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances.
 - You can still use Unicorn with Sitecore 10
 - Unicorn can sync users
